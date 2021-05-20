@@ -12,7 +12,7 @@ typedef struct {
 }Boat;
 
 int main() {
-    printf("Voici notre projet");
+    printf("Voici notre projet de fou");
     Grid grille_affiche, grille_bateau;
     int j, b, a;
     Boat bateau[5];
